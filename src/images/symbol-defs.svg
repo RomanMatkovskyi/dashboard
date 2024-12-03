@@ -1,0 +1,11 @@
+<svg aria-hidden="true" style="position:absolute;width:0;height:0;overflow:hidden" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <symbol id="icon-streamline_money-cash-coins-stack-accounting-billing-payment-stack-cash-coins-currency-money-finance" viewBox="0 0 32 32">
+      <path stroke-width="2.667" stroke-linecap="round" stroke-linejoin="round" d="M20.57 17.143c5.681 0 10.286-2.047 10.286-4.571S26.251 8.001 20.57 8.001c-5.681 0-10.286 2.047-10.286 4.571s4.605 4.571 10.286 4.571z"/>
+      <path stroke-width="2.667" stroke-linecap="round" stroke-linejoin="round" d="M10.285 12.571v13.714c0 2.514 4.571 4.571 10.286 4.571s10.286-2.057 10.286-4.571V12.571"/>
+      <path stroke-width="2.667" stroke-linecap="round" stroke-linejoin="round" d="M30.857 19.429c0 2.514-4.572 4.571-10.286 4.571s-10.286-2.057-10.286-4.571m10.057-16a15.483 15.483 0 0 0-8.914-2.286C5.737 1.143 1.142 3.2 1.142 5.714c0 1.349 1.326 2.56 3.429 3.429"/>
+      <path stroke-width="2.667" stroke-linecap="round" stroke-linejoin="round" d="M4.571 22.857c-2.103-.869-3.429-2.08-3.429-3.429V5.714"/>
+      <path stroke-width="2.667" stroke-linecap="round" stroke-linejoin="round" d="M4.571 16c-2.103-.869-3.429-2.08-3.429-3.429"/>
+    </symbol>
+  </defs>
+</svg>
