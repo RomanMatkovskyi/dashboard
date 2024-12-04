@@ -1,8 +1,9 @@
 import styled from "styled-components";
 
 export const Table = styled.table`
+  width: 100%;
   border-collapse: collapse;
-  border: 1px solid rgba(29, 30, 33, 0.1);
+  padding: 14px;
   width: 100%;
 `;
 
@@ -24,6 +25,11 @@ export const TableHeaders = styled.td`
   font-size: 12px;
   line-height: 117%;
   color: rgba(29, 30, 33, 0.4);
+
+  &.EmailBorder {
+    border: 1px solid rgba(29, 30, 33, 0.1);
+    border-top: none;
+  }
 `;
 
 export const CustomerInf = styled.td`
@@ -34,4 +40,14 @@ export const CustomerInf = styled.td`
   font-size: 12px;
   line-height: 117%;
   color: var(--main-black);
+
+  border: 1px solid rgba(29, 30, 33, 0.1);
+
+  &:first-child {
+    border-left: none;
+  }
+
+  &:last-child {
+    border-right: none;
+  }
 `;

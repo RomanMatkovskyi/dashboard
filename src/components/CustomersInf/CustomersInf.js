@@ -31,7 +31,7 @@ const CustomersInf = ({ data }) => {
         <thead>
           <tr>
             <TableHeaders>Name</TableHeaders>
-            <TableHeaders>Email</TableHeaders>
+            <TableHeaders className="EmailBorder">Email</TableHeaders>
             <TableHeaders>Spend</TableHeaders>
           </tr>
         </thead>
