@@ -5,6 +5,7 @@ import Hero from "./components/Hero/Hero";
 import SideBar from "./components/SideBar/SideBar";
 import GeneralInf from "./components/GeneralInf/GeneralInf";
 import CustomersInf from "./components/CustomersInf/CustomersInf";
+import MoneyTurnover from "./components/MoneyTurnover/MoneyTurnover";
 
 function App() {
   return (
@@ -12,7 +13,8 @@ function App() {
       {/* <Hero /> */}
       {/* <SideBar /> */}
       {/* <GeneralInf /> */}
-      <CustomersInf />
+      {/* <CustomersInf /> */}
+      <MoneyTurnover />
     </Container>
   );
 }
